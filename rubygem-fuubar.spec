@@ -4,7 +4,7 @@
 #
 Name     : rubygem-fuubar
 Version  : 2.0.0
-Release  : 5
+Release  : 6
 URL      : https://rubygems.org/downloads/fuubar-2.0.0.gem
 Source0  : https://rubygems.org/downloads/fuubar-2.0.0.gem
 Summary  : No detailed summary available
@@ -63,33 +63,9 @@ popd
 
 %files
 %defattr(-,root,root,-)
-/usr/lib64/ruby/gems/2.2.0/cache/fuubar-2.0.0.gem
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/RSpec/Core/cdesc-Core.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/RSpec/cdesc-RSpec.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/cdesc-Fuubar.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/color_code_for-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/color_enabled%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/configuration-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/continuous_integration%3f-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/current_color-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/dump_failures-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/example_failed-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/example_passed-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/example_pending-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/failed_count-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/increment-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/message-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/new-c.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/passed_count-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/pending_count-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/progress-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/start-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/Fuubar/with_current_color-i.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/cache.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/page-LICENSE.ri
-/usr/lib64/ruby/gems/2.2.0/doc/fuubar-2.0.0/ri/page-README_md.ri
-/usr/lib64/ruby/gems/2.2.0/gems/fuubar-2.0.0/LICENSE
-/usr/lib64/ruby/gems/2.2.0/gems/fuubar-2.0.0/README.md
-/usr/lib64/ruby/gems/2.2.0/gems/fuubar-2.0.0/lib/fuubar.rb
-/usr/lib64/ruby/gems/2.2.0/gems/fuubar-2.0.0/spec/fuubar_spec.rb
-/usr/lib64/ruby/gems/2.2.0/specifications/fuubar-2.0.0.gemspec
+/usr/lib64/ruby/gems/2.3.0/cache/fuubar-2.0.0.gem
+/usr/lib64/ruby/gems/2.3.0/gems/fuubar-2.0.0/LICENSE
+/usr/lib64/ruby/gems/2.3.0/gems/fuubar-2.0.0/README.md
+/usr/lib64/ruby/gems/2.3.0/gems/fuubar-2.0.0/lib/fuubar.rb
+/usr/lib64/ruby/gems/2.3.0/gems/fuubar-2.0.0/spec/fuubar_spec.rb
+/usr/lib64/ruby/gems/2.3.0/specifications/fuubar-2.0.0.gemspec
