@@ -4,7 +4,7 @@
 #
 Name     : rubygem-fuubar
 Version  : 2.2.0
-Release  : 9
+Release  : 10
 URL      : https://rubygems.org/downloads/fuubar-2.2.0.gem
 Source0  : https://rubygems.org/downloads/fuubar-2.2.0.gem
 Summary  : No detailed summary available
